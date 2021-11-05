@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\bin\Debug\SifreOlusturucu.exe.config
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\bin\Debug\SifreOlusturucu.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\bin\Debug\SifreOlusturucu.pdb
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\obj\Debug\SifreOlusturucu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\obj\Debug\SifreOlusturucu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\obj\Debug\SifreOlusturucu.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\SifreOlusturucu\SifreOlusturucu\SifreOlusturucu\obj\Debug\SifreOlusturucu.pdb
