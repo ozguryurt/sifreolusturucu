@@ -1,0 +1,2 @@
+# sifreolusturucu
+Basit şifre oluşturucu.
